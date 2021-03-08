@@ -1,0 +1,32 @@
+[
+	{
+		"name": "FoCP",
+		"credit_hours": 4,
+		"grade": "A"
+	},
+	{
+		"name": "Discrete Math",
+		"credit_hours": 3,
+		"grade": "B+"
+	},
+	{
+		"name": "FoICT",
+		"credit_hours": 3,
+		"grade": "B"
+	},
+	{
+		"name": "Calculus I",
+		"credit_hours": 3,
+		"grade": "B"
+	},
+	{
+		"name": "Communication Skills",
+		"credit_hours": 2,
+		"grade": "B"
+	},
+	{
+		"name": "PTSD",
+		"credit_hours": 2,
+		"grade": "B+"
+	}
+]
